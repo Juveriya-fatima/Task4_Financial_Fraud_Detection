@@ -36,7 +36,12 @@ Financial Fraud Detection Dataset
 * Dataset (.csv)
 * Dashboard Screenshot (.png)
 * README.md
+* PPT Summary
 
 ## Conclusion
 
 This dashboard helps visualize transaction patterns and identify fraudulent activities. It enables users to explore data interactively and gain actionable insights for fraud detection.
+
+##Note
+The original dataset contains over 1 million records and exceeds GitHub's upload size limit. A representative sample dataset has been included in this repository for demonstration and analysis purposes.
+
