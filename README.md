@@ -41,7 +41,7 @@ Financial Fraud Detection Dataset
 
 This dashboard helps visualize transaction patterns and identify fraudulent activities. It enables users to explore data interactively and gain actionable insights for fraud detection.
 
-##Note
+## Note
 The original dataset contains over 1 million records and exceeds GitHub's upload size limit. A representative sample dataset has been included in this repository for demonstration and analysis purpose.
 The Power BI dashboard was developed using Power BI Desktop. Due to GitHub file size limitations, the dashboard screenshot and presentation have been included to demonstrate the complete analysis and dashboard design.
 
